@@ -1,5 +1,5 @@
 # 💫 About Me:
-am a student pre final year in  electrics and communication more interested in computer science field done more projects in web development and now am currently focusing on developing ai
+am a student final year in  electrics and communication more interested in computer science field done more projects in web development and now am currently focusing on developing ai
 
 
 ## 🌐 Socials:
